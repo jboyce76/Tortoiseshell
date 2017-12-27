@@ -130,3 +130,30 @@ ul.small-screen {
 .delivery img {
   width: 5rem;
 }
+
+/* Store information settings */
+
+.info {
+  display: flex;
+  justify-content: center;
+}
+
+.store-info {
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+}
+
+.store {
+  width: 47.5%;
+}
+
+.store h2 {
+  background-color: cadetblue;
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+  width: 10rem;
+  padding: 0.5rem 0rem 0.5rem 1.25rem;
+  margin-bottom: 1rem;
+}

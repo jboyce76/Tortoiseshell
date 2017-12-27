@@ -164,4 +164,18 @@ footer .logo {
   margin-top: 5rem;
 }
 
-.
+@media only screen and (max-width: 960px) {
+  .container {
+    width: 100%;
+  }
+  .main-banner {
+    padding-top: 0rem;
+    height: 22rem;
+  }
+  .caption {
+    margin-top: 5rem;
+    padding: 0.75rem 4rem;
+    font-size: 1.33rem;
+    margin-right: 2rem;
+  }
+}
